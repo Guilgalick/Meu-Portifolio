@@ -426,6 +426,20 @@ body {
     margin-right: 1rem;
 }
 
+.work__links {
+  margin-top: 12px;
+}
+
+.work__link {
+  display: inline-block;
+  padding: 8px 14px;
+  color: #00f2ff;
+  border: 1px solid #00f2ff;
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 /*
  * ==================
  * Contact
